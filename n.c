@@ -2,7 +2,7 @@
 int main()
 { 
 int i,j,a,b;
-char x[20],y[50];
+char x[30],y[60];
 printf("enter the first string");
 scanf("%s",x);
 printf("enter the second string");
